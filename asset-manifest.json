@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wp-graphql/static/css/main.1641fc8e.chunk.css",
-    "main.js": "/wp-graphql/static/js/main.d76d9c38.chunk.js",
-    "main.js.map": "/wp-graphql/static/js/main.d76d9c38.chunk.js.map",
-    "runtime-main.js": "/wp-graphql/static/js/runtime-main.7bb08764.js",
-    "runtime-main.js.map": "/wp-graphql/static/js/runtime-main.7bb08764.js.map",
-    "static/js/2.093d0619.chunk.js": "/wp-graphql/static/js/2.093d0619.chunk.js",
-    "static/js/2.093d0619.chunk.js.map": "/wp-graphql/static/js/2.093d0619.chunk.js.map",
-    "index.html": "/wp-graphql/index.html",
-    "precache-manifest.608cd1cba5c522850e8bd3de160b8660.js": "/wp-graphql/precache-manifest.608cd1cba5c522850e8bd3de160b8660.js",
-    "service-worker.js": "/wp-graphql/service-worker.js",
-    "static/css/main.1641fc8e.chunk.css.map": "/wp-graphql/static/css/main.1641fc8e.chunk.css.map",
-    "static/js/2.093d0619.chunk.js.LICENSE.txt": "/wp-graphql/static/js/2.093d0619.chunk.js.LICENSE.txt"
+    "main.css": "/wpgraphql/static/css/main.1641fc8e.chunk.css",
+    "main.js": "/wpgraphql/static/js/main.d76d9c38.chunk.js",
+    "main.js.map": "/wpgraphql/static/js/main.d76d9c38.chunk.js.map",
+    "runtime-main.js": "/wpgraphql/static/js/runtime-main.2b17c0bc.js",
+    "runtime-main.js.map": "/wpgraphql/static/js/runtime-main.2b17c0bc.js.map",
+    "static/js/2.093d0619.chunk.js": "/wpgraphql/static/js/2.093d0619.chunk.js",
+    "static/js/2.093d0619.chunk.js.map": "/wpgraphql/static/js/2.093d0619.chunk.js.map",
+    "index.html": "/wpgraphql/index.html",
+    "precache-manifest.64c32cf795567088335c8ab3b06ea184.js": "/wpgraphql/precache-manifest.64c32cf795567088335c8ab3b06ea184.js",
+    "service-worker.js": "/wpgraphql/service-worker.js",
+    "static/css/main.1641fc8e.chunk.css.map": "/wpgraphql/static/css/main.1641fc8e.chunk.css.map",
+    "static/js/2.093d0619.chunk.js.LICENSE.txt": "/wpgraphql/static/js/2.093d0619.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bb08764.js",
+    "static/js/runtime-main.2b17c0bc.js",
     "static/js/2.093d0619.chunk.js",
     "static/css/main.1641fc8e.chunk.css",
     "static/js/main.d76d9c38.chunk.js"
