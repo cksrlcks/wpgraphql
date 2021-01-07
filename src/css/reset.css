@@ -1,0 +1,61 @@
+/*reset*/
+*{  
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  body{
+	color:#24292E;
+	font-family: -apple-system, BlinkMacSystemFont, Apple SD Gothic Neo, Roboto, Noto Sans CJK KR, Tahoma, 'Noto Sans KR', sans-serif;
+	word-break: keep-all;
+	background : #fafafa;
+	letter-spacing: -0.02em;
+	text-rendering: optimizeLegibility;
+	text-rendering: geometricPrecision;
+	font-smooth: always;
+	font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-webkit-font-smoothing: antialiased;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-ms-text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+	overflow-x: hidden;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {font-weight:normal;	font-size:14px;}
+  ol, ul, li, dd, dl, dt  {list-style:none;}
+  fieldset, legend {border:0;	margin:0;padding:0;}
+  legend { display:none;}
+  img {border:0; vertical-align:top;}
+  label{cursor:pointer;}
+  a, a:link, a:visited, a:hover, a:active{text-decoration:none; color:#24292E;}
+  
+  body{
+	font-size:16px;
+  }
+  
+  /*클리어픽스*/
+  .cl{}
+  .cl:after{content:""; display:block; clear:both;}
+  
+  /* table common */
+  table {border-collapse:collapse;}
+  table caption{height:0;width:0;text-indent:-9999px;}
+  
+  /*input reset*/
+  input{font-family:'Noto Sans Korean', sans-serif; -webkit-appearance: none; }
+  input:focus,select:focus,textarea:focus,button:focus {outline: none;}
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover, 
+  input:-webkit-autofill:focus, 
+  input:-webkit-autofill:active  {
+	  -webkit-box-shadow: 0 0 0 30px white inset !important;
+	  background:none;
+  }
+  /*button reset*/
+  button{font-family: inherit; background:none;}
+  
+  /*hidden*/
+  .hidden{overflow:hidden; border:0; position: absolute; width: 1px; height:1px; clip:rect(1px, 1px, 1px, 1px); clip-path: inset(50%);}
+  

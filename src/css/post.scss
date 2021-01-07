@@ -1,0 +1,107 @@
+@import './variables.scss';
+
+.post_wrap{
+    background:#fff;
+    border:1px solid $grey-3;
+    border-radius: 4px;
+    padding:2em;
+
+    .post_load{
+        text-align: center;
+        color:$font-g-1;
+    }
+    .go_back{
+        padding:0.7em 2em;
+        border:1px solid $grey-3;
+        border-radius: 4px;
+        margin-bottom: 3em;
+        cursor: pointer;
+        transition: all 0.2s;
+        &:hover{
+            border-color:#ddd;
+        }
+        .post_icon{
+            font-size:11px;
+        }
+        i{
+            margin-left:0.7em;
+            font-style: normal;
+        }
+
+    }
+
+    .title{
+        font-size:24px;
+        font-weight:700;
+        margin-bottom:1.5em;
+    }
+
+    .meta{
+        width:100%;
+        text-align: left;
+        padding-bottom: 1em;
+        margin-bottom: 2em;
+        border-bottom:1px solid $grey-3;
+
+        p{
+            display: inline-block;
+            font-size:0.87em;
+            margin-right:1.2em;
+            color:$font-g-1;
+            .post_icon{
+                font-size:0.8em;
+                margin-right:0.5em;
+            }
+        }
+    }
+
+    .content{
+        font-size:0.9em;
+        line-height: 1.7em;
+        padding:0 1em;
+        figure{
+            text-align: center;
+            margin-bottom:2em;
+            img{
+                max-width: 100%;
+                height: auto;
+            }
+        }
+        p{
+            margin-bottom:1em;
+        }
+        .btn_go{
+            display: inline-block;
+            height: 48px;
+            line-height: 48px;
+            min-width: 120px;
+            padding: 0 32px;
+            text-align: center;
+            font-size: 18px;
+            color:#fff;
+            background: #01c080;
+            border-radius: 2px;
+            margin-bottom: 2em;
+            -webkit-transition: background .2s;
+            transition: background .2s;
+            &:hover{
+                background: #0ea170;
+            }
+        }
+
+    }
+
+    pre{
+        background: #fdfdfd;
+        border: 1px solid $grey-3;
+        font-size: 14px;
+        line-height: 1.3em;
+        padding: 2em 3em;
+        border-radius: 4px;
+        overflow-x: auto;
+        margin-bottom:2em;
+    }
+    .videoWrapper{
+        margin-bottom:2em;
+    }
+}
