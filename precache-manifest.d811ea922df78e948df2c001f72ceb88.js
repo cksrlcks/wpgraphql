@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2bf9f79efd168b5aebd190ca7dfe467",
+    "revision": "4efd7c289fa4c6f643a5412362ff5466",
     "url": "/wpgraphql/index.html"
   },
   {
-    "revision": "e8025e5af409f3cd0e6a",
+    "revision": "0b7245051051e7083c50",
     "url": "/wpgraphql/static/css/main.1641fc8e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wpgraphql/static/js/2.093d0619.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8025e5af409f3cd0e6a",
-    "url": "/wpgraphql/static/js/main.d76d9c38.chunk.js"
+    "revision": "0b7245051051e7083c50",
+    "url": "/wpgraphql/static/js/main.e857016f.chunk.js"
   },
   {
     "revision": "8d82923ed6ecc33a2e27",

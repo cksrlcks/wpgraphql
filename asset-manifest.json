@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wpgraphql/static/css/main.1641fc8e.chunk.css",
-    "main.js": "/wpgraphql/static/js/main.d76d9c38.chunk.js",
-    "main.js.map": "/wpgraphql/static/js/main.d76d9c38.chunk.js.map",
+    "main.js": "/wpgraphql/static/js/main.e857016f.chunk.js",
+    "main.js.map": "/wpgraphql/static/js/main.e857016f.chunk.js.map",
     "runtime-main.js": "/wpgraphql/static/js/runtime-main.2b17c0bc.js",
     "runtime-main.js.map": "/wpgraphql/static/js/runtime-main.2b17c0bc.js.map",
     "static/js/2.093d0619.chunk.js": "/wpgraphql/static/js/2.093d0619.chunk.js",
     "static/js/2.093d0619.chunk.js.map": "/wpgraphql/static/js/2.093d0619.chunk.js.map",
     "index.html": "/wpgraphql/index.html",
-    "precache-manifest.64c32cf795567088335c8ab3b06ea184.js": "/wpgraphql/precache-manifest.64c32cf795567088335c8ab3b06ea184.js",
+    "precache-manifest.d811ea922df78e948df2c001f72ceb88.js": "/wpgraphql/precache-manifest.d811ea922df78e948df2c001f72ceb88.js",
     "service-worker.js": "/wpgraphql/service-worker.js",
     "static/css/main.1641fc8e.chunk.css.map": "/wpgraphql/static/css/main.1641fc8e.chunk.css.map",
     "static/js/2.093d0619.chunk.js.LICENSE.txt": "/wpgraphql/static/js/2.093d0619.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b17c0bc.js",
     "static/js/2.093d0619.chunk.js",
     "static/css/main.1641fc8e.chunk.css",
-    "static/js/main.d76d9c38.chunk.js"
+    "static/js/main.e857016f.chunk.js"
   ]
 }
